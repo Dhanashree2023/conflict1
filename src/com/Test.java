@@ -6,6 +6,9 @@ public class Test {
 		System.out.println("11111111111");
 		
 		System.out.println("22222222");
+		
+		String s = "Java";
+		System.out.println("bbbbbbbbbbbbbb");
 	}
 
 }
