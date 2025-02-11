@@ -7,8 +7,14 @@ public class Test {
 		
 		System.out.println("22222222");
 		
+		int i = 0;
+		System.out.println("vvvvvvvvvv");
+		
 		String s = "Java";
 		System.out.println("bbbbbbbbbbbbbb");
+
+		
+
 	}
 
 }
